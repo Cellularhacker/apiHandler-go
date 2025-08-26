@@ -1,12 +1,12 @@
 module github.com/Cellularhacker/apiHandler-go
 
-go 1.23.1
+go 1.25
 
 require (
-	github.com/Cellularhacker/apiError-go v0.0.4
-	github.com/Cellularhacker/logger-go v1.0.4
-	github.com/Cellularhacker/util-go v0.0.8
-	github.com/goccy/go-json v0.10.3
+	github.com/Cellularhacker/apiError-go v0.0.5
+	github.com/Cellularhacker/logger-go v1.0.6
+	github.com/Cellularhacker/util-go v0.0.9
+	github.com/goccy/go-json v0.10.5
 )
 
 require (
@@ -16,5 +16,5 @@ require (
 	github.com/stretchr/testify v1.9.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
 )
