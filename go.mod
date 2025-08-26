@@ -3,9 +3,9 @@ module github.com/Cellularhacker/apiHandler-go
 go 1.25
 
 require (
-	github.com/Cellularhacker/apiError-go v0.0.4
+	github.com/Cellularhacker/apiError-go v0.0.5
 	github.com/Cellularhacker/logger-go v1.0.5
-	github.com/Cellularhacker/util-go v0.0.8
+	github.com/Cellularhacker/util-go v0.0.9
 	github.com/goccy/go-json v0.10.5
 )
 
