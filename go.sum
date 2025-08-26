@@ -1,7 +1,7 @@
 github.com/Cellularhacker/apiError-go v0.0.5 h1:Ib/74GDxwKGdykfuNemPc6iS4WH+dFDIYUuigLXSuPc=
 github.com/Cellularhacker/apiError-go v0.0.5/go.mod h1:IaE/1bApzUD7JUfh5gAT5PESkZ4bpFaUY+9jUjUbtpA=
-github.com/Cellularhacker/logger-go v1.0.5 h1:IE/hbMbaOKH55IcV1/BdRieWA7uWoWUBcnPlzMezJ68=
-github.com/Cellularhacker/logger-go v1.0.5/go.mod h1:m9JMWZTdl1H6Ax/WgzB8A1Kq5WM+QCcI/GjrCZ/lFko=
+github.com/Cellularhacker/logger-go v1.0.6 h1:5gO7aFEYnWKo5FhBW6Ak8BIpdZDTZLpUy6JLBMpQvbs=
+github.com/Cellularhacker/logger-go v1.0.6/go.mod h1:SnvkV6XKj+0WAmtArINAE1FPBWIXh22AziAkMxG5wcA=
 github.com/Cellularhacker/util-go v0.0.9 h1:XomAEU3lMNtFirCB/w2vG0LdXDb6F+DE5C4aENXY3Ps=
 github.com/Cellularhacker/util-go v0.0.9/go.mod h1:jQ3F84P4t/nIzsvsGO5RtGcfJuKuNogsIBbCIEO6MOM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
